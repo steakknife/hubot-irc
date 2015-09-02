@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "irc": "0.3.9",
-    "log": "1.4.0"
+    "log": "git+https://github.com/steakknife/log.js#no-timestamp"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
